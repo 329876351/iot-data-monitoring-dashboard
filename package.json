@@ -1,0 +1,25 @@
+{
+  "name": "iot-data-monitoring-dashboard",
+  "version": "1.0.0",
+  "description": "基于 Node.js 和 WebSocket 的工业传感器数据采集与实时监控系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/329876351/iot-data-monitoring-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/329876351/iot-data-monitoring-dashboard/issues"
+  },
+  "homepage": "https://github.com/329876351/iot-data-monitoring-dashboard#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ws": "^8.21.3"
+  }
+}
